@@ -5,11 +5,7 @@ A repository with all link for download pearOS versions
 
 <strong> Github pear-project repository's </strong>
 
-- Official : https://github.com/pear-project
-
-- Official (Arch Base) : https://github.com/pearOS-archlinux/
-
-- Unofficial (this repo :) ) : https://github.com/pear-project-community
+- Web Test: https://distrosea.com/view/
 
 <h3><strong> Download Link </strong></h3>
 
